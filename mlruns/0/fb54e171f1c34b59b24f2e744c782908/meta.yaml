@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mpapp/Desktop/ineuron/project/mlflow/mlruns/0/fb54e171f1c34b59b24f2e744c782908/artifacts
+end_time: 1693029644223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb54e171f1c34b59b24f2e744c782908
+run_name: thundering-asp-989
+run_uuid: fb54e171f1c34b59b24f2e744c782908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693029639824
+status: 3
+tags: []
+user_id: mpapp

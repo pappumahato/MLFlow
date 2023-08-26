@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mpapp/Desktop/ineuron/project/mlflow/mlruns/0/c969a8c8d6ce4b1f96240806ff6e0ab2/artifacts
+end_time: 1693029619987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c969a8c8d6ce4b1f96240806ff6e0ab2
+run_name: unequaled-lamb-576
+run_uuid: c969a8c8d6ce4b1f96240806ff6e0ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693029615495
+status: 3
+tags: []
+user_id: mpapp

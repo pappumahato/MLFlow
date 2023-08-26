@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mpapp/Desktop/ineuron/project/mlflow/mlruns/0/cee84bae8cb442ca9e0e357eca710039/artifacts
+end_time: 1693029636821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cee84bae8cb442ca9e0e357eca710039
+run_name: flawless-goat-862
+run_uuid: cee84bae8cb442ca9e0e357eca710039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693029632292
+status: 3
+tags: []
+user_id: mpapp

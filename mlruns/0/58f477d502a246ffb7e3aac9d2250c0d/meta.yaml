@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mpapp/Desktop/ineuron/project/mlflow/mlruns/0/58f477d502a246ffb7e3aac9d2250c0d/artifacts
+end_time: 1693029706634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58f477d502a246ffb7e3aac9d2250c0d
+run_name: abundant-yak-450
+run_uuid: 58f477d502a246ffb7e3aac9d2250c0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693029700971
+status: 3
+tags: []
+user_id: mpapp

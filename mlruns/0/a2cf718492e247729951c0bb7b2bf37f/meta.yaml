@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mpapp/Desktop/ineuron/project/mlflow/mlruns/0/a2cf718492e247729951c0bb7b2bf37f/artifacts
+end_time: 1693029655410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2cf718492e247729951c0bb7b2bf37f
+run_name: bouncy-wasp-965
+run_uuid: a2cf718492e247729951c0bb7b2bf37f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693029654285
+status: 4
+tags: []
+user_id: mpapp

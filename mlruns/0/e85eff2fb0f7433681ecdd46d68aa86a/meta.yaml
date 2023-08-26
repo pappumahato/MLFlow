@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mpapp/Desktop/ineuron/project/mlflow/mlruns/0/e85eff2fb0f7433681ecdd46d68aa86a/artifacts
+end_time: 1693029651233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e85eff2fb0f7433681ecdd46d68aa86a
+run_name: useful-crab-401
+run_uuid: e85eff2fb0f7433681ecdd46d68aa86a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693029647107
+status: 3
+tags: []
+user_id: mpapp

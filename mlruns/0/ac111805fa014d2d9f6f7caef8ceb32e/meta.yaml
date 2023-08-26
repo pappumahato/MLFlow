@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mpapp/Desktop/ineuron/project/mlflow/mlruns/0/ac111805fa014d2d9f6f7caef8ceb32e/artifacts
+end_time: 1693029628920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac111805fa014d2d9f6f7caef8ceb32e
+run_name: brawny-hawk-834
+run_uuid: ac111805fa014d2d9f6f7caef8ceb32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693029623181
+status: 3
+tags: []
+user_id: mpapp

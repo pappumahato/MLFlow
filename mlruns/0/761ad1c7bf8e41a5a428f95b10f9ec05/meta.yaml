@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mpapp/Desktop/ineuron/project/mlflow/mlruns/0/761ad1c7bf8e41a5a428f95b10f9ec05/artifacts
+end_time: 1693029697835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 761ad1c7bf8e41a5a428f95b10f9ec05
+run_name: worried-cow-929
+run_uuid: 761ad1c7bf8e41a5a428f95b10f9ec05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693029693274
+status: 3
+tags: []
+user_id: mpapp
